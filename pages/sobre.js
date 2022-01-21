@@ -13,7 +13,7 @@ const Sobre = () => {
         </Link>
       </div>
     </div>
-
+    
   )
 }
 export default Sobre
